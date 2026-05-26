@@ -1,0 +1,6 @@
+{
+  "name": "Seasons Mind Game",
+  "description": "Memory & Matching Challenge: Train your mind with beautiful changing seasonal screens, unlock interactive levels, buy special power-ups like Smasher and Freeze, and scale the local leaderboard!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
